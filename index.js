@@ -50,7 +50,7 @@ vendordata = vendordata.map((vendor) =>
 );
 
 console.log(JSON.stringify(vendordata, null, 4));
-fs.writeFileSync('./output/data-transformed.json', JSON.stringify(vendordata, null, 4));
+fs.writeFileSync('./data-transformed.json', JSON.stringify(vendordata, null, 4));
 
 //Note: I guess we could export the contents but I think this exercise was more about coding approach rather then creating a exportable feed
 //module.exports = vendordata;

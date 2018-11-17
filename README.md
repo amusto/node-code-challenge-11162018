@@ -11,7 +11,7 @@ Restrictions:
 
 * Download or clone code from https://github.com/amusto/node-code-challenge-11162018 and 
 * Open a terminal window in your cloned directory and type the command "node index.js"
-* The generated file will be created at ./data/data-transformed.json
+* The generated file will be created at ./data-transformed.json
  
  ### Comments
  * I kept it simple and hope I followed the instructions well. It took me about 2 hours to write and clean up.
